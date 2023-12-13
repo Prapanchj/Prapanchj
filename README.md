@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 
 
- <img align="center" alt="Coding" width="800" src="https://giphy.com/embed/8H80IVPjAdKY8">
+
+
+
+
+ <img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/8H80IVPjAdKY8/giphy.gif">
+ <img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
